@@ -1,3 +1,5 @@
 # ghost-of-James-T.-Duffin-
 discord webhook bot thingy
-git I am a ghost booooooooooooooooooooo
+
+git init 
+git clone DUFFINSSAWYER@host:/path/to/repository
